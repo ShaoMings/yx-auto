@@ -1,5 +1,5 @@
 // Cloudflare Worker - 简化版优选工具
-// 仅保留优选域名、优选IP、GitHub、上报和节点生成功能
+// 仅保留优选域名、优选IP、GitHub、上报和节点生成功能 
 
 // 默认配置
 let customPreferredIPs = [];
